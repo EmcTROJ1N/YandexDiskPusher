@@ -91,8 +91,6 @@ Don't forget to give the project a star! Thanks again!
   <li>Open a Pull Request</li>
 </ol>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
@@ -101,8 +99,6 @@ Your Name - [@pokrov1970](https://t.me/pokrov1970) - 19et72@mail.ru
 
 [Project Link](https://github.com/EmcTROJ1N/YandexDiskPusher)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -110,7 +106,5 @@ Your Name - [@pokrov1970](https://t.me/pokrov1970) - 19et72@mail.ru
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
-* [WpfAdvancedToolKit](https://github.com/xceedsoftware/wpftoolkit)
-* [Stockfish.NET](https://github.com/Oremiro/Stockfish.NET)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot)
+* [Yandex.DiskApi](https://github.com/raidenyn/yandexdisk.client)
